@@ -1,4 +1,4 @@
-package net.crudapllication.todo.entitiy;
+package net.crudapllication.todo.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
