@@ -2,7 +2,6 @@ package net.crudapllication.todo.service;
 
 
 import lombok.AllArgsConstructor;
-
 import net.crudapllication.todo.dto.ToDoDto;
 import net.crudapllication.todo.entity.Todo;
 import net.crudapllication.todo.exception.ResourceNotFoundException;
